@@ -18,7 +18,7 @@ namespace CSGOInjector
         static void Main(string[] args)
         {
             AllocConsole();
-            Console.WriteLine("Welcome to L33T undetectable game DLL injector");
+            Console.WriteLine("Welcome to L33T DLL injector");
 
             Application.SetCompatibleTextRenderingDefault(false);
             Application.EnableVisualStyles();
